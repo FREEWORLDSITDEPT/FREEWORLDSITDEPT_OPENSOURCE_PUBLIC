@@ -2,12 +2,17 @@
 
 <em>Our Free/Libre Open Source Software and Documentation</em>
 
-## TOOLS
+# ++++ 8888 OUR CENTRAL SITE * HUB 8888 ++++
 
+
+ * OUR CENTRAL SITE :: :: :: :: https://github.com/FREEWORLDSITDEPT
+
+## TOOLS
 
 * COLLAB <em>MIND MAP</em> F/L OPENSOURCE SOFTWARE AND DOCUMENTATION FIELDS :: https://coggle.it/diagram/YLDXgLwdFiq_h9k1/t/-
 
-## FIELDS
+
+## OMICRON FIELDS
 
 ### PluralityNET
 
